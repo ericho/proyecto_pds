@@ -105,7 +105,9 @@ end
 
 [pathstr,name,ext] = fileparts(wavfilename);
 if strcmp(ext,'.wav')
-    [f_audio,fs,nbits] = wavread(strcat(dirAbs,dirRel,wavfilename));
+    [f_audio,fs] = audioread(fullfile(dirAbs,dirRel,wavfilename));
+    a_info = audioinfo(wavfilename);
+    nbits = a_info.BitsPerSample;
 else
     error(['Unknown file format ' ext]);
 end
