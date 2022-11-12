@@ -2,4 +2,4 @@
 
 # Este sera un script para bajar las caciones y las anotaciones.
 
-echo "Aun no funciono... :("
+echo "Aun no funciono... :( ay no, tamos tristes -M"
