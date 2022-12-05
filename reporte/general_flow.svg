@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="197.03986mm"
+   height="92.700432mm"
+   viewBox="0 0 197.03986 92.700432"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (8a69933317, 2022-10-28, custom)"
+   sodipodi:docname="general_flow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.51445"
+     inkscape:cx="325.20056"
+     inkscape:cy="93.433257"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Sketch"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Sketch"
+       markerWidth="15.566"
+       markerHeight="13.860189"
+       viewBox="0 0 7.5655539 6.7364778"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:0.4;stroke-linecap:round"
+         d="m -4.5421538,-3.2452189 3.83900644,2.60235235 0.56348102,0.59255887 L -2.4921466,1.1808717 -4.4106004,2.139946 -4.5795251,2.8245356 -4.703996,3.0734773 -4.3128019,2.6822832 -3.9749524,2.3088707 0.66603196,-0.12720162 0.02589622,-0.32279868 -1.7613224,-0.60366199 -3.580874,-2.0472634 -4.3186004,-2.392437 l -1.2937699,-0.2549423 2.1825172,0.042166 0.6996091,1.0554873 1.4406512,0.1145833 1.20879971,0.91674665 1.53333299,0.47138389 -1.85995289,1.23785256 -2.03832621,0.9224332 -1.5469949,0.9779853"
+         id="path22096"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1097"
+       x="-0.02201247"
+       y="-0.06101157"
+       width="1.0440249"
+       height="1.1220231">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.38837486"
+         id="feGaussianBlur1099" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.1683588,-19.629797)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none"
+       id="rect1767"
+       width="197.03986"
+       height="92.700432"
+       x="7.1683588"
+       y="19.629797" />
+    <g
+       id="g1121"
+       transform="translate(3.9242626,-0.46663067)">
+      <rect
+         style="mix-blend-mode:normal;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.498884;stroke-dasharray:none;filter:url(#filter1097)"
+         id="rect1101"
+         width="42.344166"
+         height="15.277425"
+         x="17.907984"
+         y="66.467148"
+         transform="matrix(1.004587,0,0,0.99989425,-0.07786773,0.0069304)" />
+      <rect
+         style="fill:#afc6e9;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+         id="rect400"
+         width="42.344166"
+         height="15.277425"
+         x="17.460258"
+         y="65.428734" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.53072px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="38.524914"
+         y="71.989952"
+         id="text404"
+         transform="scale(1.0004513,0.99954889)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="38.524914"
+           y="71.989952"
+           id="tspan492">Compute pitch</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="38.524914"
+           y="77.653351"
+           id="tspan565">features</tspan></text>
+    </g>
+    <g
+       id="g1128"
+       transform="translate(4.8759784,-0.78873795)">
+      <rect
+         style="mix-blend-mode:normal;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.48839;stroke-dasharray:none;filter:url(#filter1097)"
+         id="rect1103"
+         width="42.344166"
+         height="15.277425"
+         x="17.907984"
+         y="66.467148"
+         transform="matrix(0.99636605,0,0,1.0519356,64.972161,-3.7056885)" />
+      <rect
+         style="fill:#aaffee;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+         id="rect456"
+         width="41.8512"
+         height="15.244451"
+         x="82.466339"
+         y="65.96907" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.53072px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="103.36193"
+         y="72.856094"
+         id="text460"
+         transform="scale(1.0004513,0.99954889)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="103.36193"
+           y="72.856094"
+           id="tspan462">Compute chroma</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="103.36193"
+           y="78.519493"
+           id="tspan569">values</tspan></text>
+    </g>
+    <g
+       id="g1135"
+       transform="translate(20.617652,19.163367)">
+      <rect
+         style="mix-blend-mode:normal;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.502007;stroke-dasharray:none;filter:url(#filter1097)"
+         id="rect1105"
+         width="42.344166"
+         height="15.277425"
+         x="17.907984"
+         y="66.467148"
+         transform="matrix(0.99283654,0,0,0.99917735,113.63313,-19.748098)" />
+      <rect
+         style="fill:#b3ff80;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+         id="rect464"
+         width="41.89703"
+         height="15.178683"
+         x="130.86446"
+         y="46.000225" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.53072px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="151.91925"
+         y="52.60807"
+         id="text470"
+         transform="scale(1.0004513,0.99954887)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="151.91925"
+           y="52.60807"
+           id="tspan482">Plot</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="151.91925"
+           y="58.271469"
+           id="tspan772">Chromagram</tspan></text>
+    </g>
+    <g
+       id="g1114"
+       transform="translate(4.0187549,7.4371841)">
+      <rect
+         style="mix-blend-mode:normal;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;filter:url(#filter1097)"
+         id="rect1095"
+         width="42.344166"
+         height="15.277425"
+         x="18.097054"
+         y="29.350122" />
+      <rect
+         style="fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+         id="rect533"
+         width="42.344166"
+         height="15.277425"
+         x="17.460258"
+         y="28.38706" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.53072px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="38.524914"
+         y="34.931564"
+         id="text539"
+         transform="scale(1.0004513,0.9995489)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="38.524914"
+           y="34.931564"
+           id="tspan537">Load WAV file</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="38.524914"
+           y="40.594963"
+           id="tspan559">Fs=22050</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Sketch)"
+       d="m 64.125737,73.906527 h 21.78299"
+       id="path1268" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Sketch)"
+       d="M 129.31861,73.906527 H 151.1016"
+       id="path774" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Sketch)"
+       d="M 43.9154,51.4702 V 63.878007"
+       id="path776" />
+  </g>
+</svg>
